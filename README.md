@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm JOEDLYN POLINES HENDERIN!
+# 👋 Hi there, I'm JOEDY POLIENE HENDZ!
 
 Welcome to my GitHub profile! Here you'll discover my journey as a passionate junior web developer, always eager to learn and create impactful solutions through code.
 
