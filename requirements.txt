@@ -1,0 +1,7 @@
+numpy
+pandas
+sqlalchemy
+mysql-connector-python
+scikit-learn
+dataclasses; python_version < "3.7"
+Flask
